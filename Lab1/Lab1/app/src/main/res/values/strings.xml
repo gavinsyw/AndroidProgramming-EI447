@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="back">Back</string>
+    <string name="color">Color</string>
+    <string name="color_red">Red</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_green">Green</string>
+    <string name="width">Width</string>
+    <string name="width_1">5pt</string>
+    <string name="width_2">10pt</string>
+    <string name="width_3">15pt</string>
+    <string name="clearAll">Clear All</string>
+    <string name="eraser">Eraser</string>
+    <string name="save">Save</string>
+</resources>

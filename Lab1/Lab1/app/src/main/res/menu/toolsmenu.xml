@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/back" android:title="@string/back" />
+    <item android:title="@string/color">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/red" android:title="@string/color_red"/>
+                <item android:id="@+id/blue" android:title="@string/color_blue"/>
+                <item android:id="@+id/green" android:title="@string/color_green"/>
+            </group>
+        </menu>
+    </item>
+    <item android:title="@string/width">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/width_1" android:title="@string/width_1"/>
+                <item android:id="@+id/width_2" android:title="@string/width_2"/>
+                <item android:id="@+id/width_3" android:title="@string/width_3"/>
+            </group>
+        </menu>
+    </item>
+    <item android:id="@+id/clearAll" android:title="@string/clearAll"/>
+    <item android:id="@+id/eraser" android:title="@string/eraser"/>
+    <item android:id="@+id/save" android:title="@string/save"/>
+
+</menu>
