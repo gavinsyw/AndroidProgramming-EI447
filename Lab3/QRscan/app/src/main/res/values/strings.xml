@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRscan</string>
+    <string name="encoder">Encoder</string>
+    <string name="decoder">Decoder</string>
+    <string name="encoder_hint">Please enter the text</string>
+    <string name="generate">Generate</string>
+    <string name="image_discription">Image Preview</string>
+    <string name="background">Background</string>
+</resources>
